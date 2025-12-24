@@ -69,7 +69,7 @@ autotag.setup({
 local htmlcss = require('html-css')
 htmlcss.setup({
     enable = true,
-    enable_on = { "html" },
+    enable_on = { "html", "razor" },
     handlers = {
         definition = {
             bind = "gd",

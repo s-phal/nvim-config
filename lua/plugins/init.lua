@@ -28,7 +28,7 @@ require('pckr').add{
 
     {
         "Jezda1337/nvim-html-css",
-        ft = { "html", "css", "javascriptreact", "typescriptreact" }
+        ft = { "html", "css", "javascriptreact", "typescriptreact", "razor" }
     }
 
 
